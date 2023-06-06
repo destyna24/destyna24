@@ -1,7 +1,15 @@
 ### Hi there 👋
 
+<p align="left">
+<a href="https://github.com/destyna24">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=destyna24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=destyna24&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 <!--
-**destyna24/destyna24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*destyna24/destyna24* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
